@@ -28,7 +28,7 @@ export default {
                 text: 'Download Resume',
                 url: '#'
             },
-            title: 'Hi, I am John, Creative Technologist',
+            title: 'Hi, I am Johnny, Creative Technologist',
             subtitle: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.',
             image: 'public/img/person-image.png'
         }
